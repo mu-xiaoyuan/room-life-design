@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+output/
+.analysis/
+*.tmp
+*.log
