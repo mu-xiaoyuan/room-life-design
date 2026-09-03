@@ -1,0 +1,4 @@
+interface:
+  display_name: "房间生活感设计"
+  short_description: "从高赞案例生成温馨、生活化、适合 vlog 的房间"
+  default_prompt: "Use $room-life-design to create an inviting bedroom with independent selected scenes, distributed in-use surfaces, loosely overlapping personal objects, and bright warm four-layer lighting: soft exterior base, broad warm ambient fill, local lamp pools, and readable shadows."
